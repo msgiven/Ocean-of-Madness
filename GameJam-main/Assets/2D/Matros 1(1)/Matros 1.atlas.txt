@@ -1,0 +1,139 @@
+
+Matros 1.png
+size: 506,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Star 4
+  rotate: true
+  xy: 345, 485
+  size: 163, 155
+  orig: 163, 155
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 169
+  size: 96, 129
+  orig: 300, 300
+  offset: 105, 77
+  index: -1
+body_back
+  rotate: 180
+  xy: 124, 116
+  size: 96, 129
+  orig: 300, 300
+  offset: 105, 77
+  index: -1
+body_bok
+  rotate: true
+  xy: 359, 92
+  size: 96, 129
+  orig: 300, 300
+  offset: 105, 77
+  index: -1
+eyrs
+  rotate: false
+  xy: 191, 72
+  size: 149, 48
+  orig: 300, 300
+  offset: 76, 189
+  index: -1
+foot_1
+  rotate: true
+  xy: 104, 14
+  size: 67, 96
+  orig: 300, 300
+  offset: 90, 23
+  index: -1
+foot_2
+  rotate: 270
+  xy: 336, 41
+  size: 70, 96
+  orig: 300, 300
+  offset: 148, 19
+  index: -1
+h_1
+  rotate: true
+  xy: 391, 4
+  size: 39, 41
+  orig: 300, 300
+  offset: 27, 148
+  index: -1
+h_2
+  rotate: true
+  xy: 459, 48
+  size: 45, 45
+  orig: 300, 300
+  offset: 238, 150
+  index: -1
+hand_1
+  rotate: false
+  xy: 200, 7
+  size: 94, 65
+  orig: 300, 300
+  offset: 50, 127
+  index: -1
+hand_2
+  rotate: 180
+  xy: 2, 11
+  size: 97, 61
+  orig: 300, 300
+  offset: 161, 130
+  index: -1
+head
+  rotate: true
+  xy: 221, 141
+  size: 125, 138
+  orig: 300, 300
+  offset: 83, 162
+  index: -1
+head_back
+  rotate: false
+  xy: 357, 320
+  size: 134, 138
+  orig: 300, 300
+  offset: 83, 162
+  index: -1
+head_bok
+  rotate: 270
+  xy: 360, 188
+  size: 134, 138
+  orig: 300, 300
+  offset: 83, 162
+  index: -1
+shoot_1
+  rotate: false
+  xy: 432, 10
+  size: 46, 45
+  orig: 300, 300
+  offset: 91, 0
+  index: -1
+shoot_2
+  rotate: false
+  xy: 296, 9
+  size: 49, 48
+  orig: 300, 300
+  offset: 168, 0
+  index: -1
+things
+  rotate: false
+  xy: 461, 437
+  size: 41, 47
+  orig: 300, 300
+  offset: 192, 219
+  index: -1
+vedro
+  rotate: false
+  xy: 2, 264
+  size: 357, 385
+  orig: 512, 512
+  offset: 77, 22
+  index: -1
+voda
+  rotate: true
+  xy: 2, 71
+  size: 79, 156
+  orig: 200, 200
+  offset: 64, 29
+  index: -1

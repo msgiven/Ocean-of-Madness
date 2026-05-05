@@ -1,0 +1,79 @@
+:root {
+  --height: 40px;
+}
+
+
+.icon-square {
+    width: var(--height);
+    height: var(--height);
+    -unity-background-scale-mode: scale-to-fit;
+    background-size: contain;
+    flex-shrink: 0;
+}
+
+.unity-slider {
+    height: 30px;
+    width: 200px;
+    margin: 5px;
+}
+
+.unity-base-field__label {
+    display: none;
+}
+
+#unity-drag-container {
+
+}
+
+#unity-tracker {
+    background-image: url("project://database/Assets/UI/Sprites/ui_slider_bar.png");
+    background-color: transparent;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    border-width: 0px;
+    border-color: transparent;
+    border-radius: 0px;
+
+    width: 100%;
+    height: 100%;
+    top: 0%;
+}
+
+#unity-dragger {
+    background-image: url("project://database/Assets/UI/Sprites/ui_slider.png");
+    background-color: transparent;
+    
+    border-width: 0px;
+    border-color: transparent;
+    border-radius: 0px;
+    
+    width: 15px;
+    height: 15px;
+    top: 55%;
+}
+
+.unity-button {
+    background-color: transparent;
+    margin-top: 10px; 
+    margin-right: 10px; 
+    margin-bottom: 10px; 
+    margin-left: 10px;
+}
+
+
+.unity-button:hover {
+    margin-top: 8px; 
+    margin-right: 8px; 
+    margin-bottom: 12px; 
+    margin-left: 12px;
+}
+
+.unity-button:active {
+    margin-top: 12px; 
+    margin-right: 12px; 
+    margin-bottom: 8px; 
+    margin-left: 8px;
+    transition: margin-top 0.2s ease;
+}
